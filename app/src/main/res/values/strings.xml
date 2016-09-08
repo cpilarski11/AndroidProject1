@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidProject1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Base Converter</string>
+    <string name="answerOutText">...</string>
+    <string name="buttonText">Enter</string>
+    <string name="answerText">0</string>
+    <string name="backgroundColorHex">#CECEF6</string>
+    <string name="redColor">red</string>
+    <string name="fromBaseHint">What base are you converting from?</string>
+    <string name="promptHint">Please enter an integer</string>
+    <string name="toBaseHint">What base are you converting to?</string>
+</resources>
+
